@@ -5,6 +5,6 @@ Needs a bit of cleanup and formatting changes, i pulled this all together from v
 
 Future Updates will include Eagle Board design and updates logic level converter and stl files for a case.
 
-For antenna i used a simple straight wire as noted on Mysensors site, this seems to cover my house incredibly well from the basement. So shoudl be adequate for most anyone.
+For antenna i used a simple straight wire as noted on Mysensors site, this seems to cover my house incredibly well from the basement. So should be adequate for most anyone.
 
-Power i am using an Arduin Nano clone this appears to be able to power both the W5100 and the RFM69 via USB input. Make sure to use a good usb power source.
+For power I am using the onboard regulator of an Arduin Nano clone this appears to be able to power both the W5100 and the RFM69 via USB input. Make sure to use a good usb power source.
